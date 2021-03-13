@@ -5,7 +5,7 @@
 #endif // 0
 
 
-using namespace std;
+u sing namespace std;
 int main()
 {
 	#if 0
